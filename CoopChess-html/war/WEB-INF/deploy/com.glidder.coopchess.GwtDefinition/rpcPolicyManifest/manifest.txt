@@ -1,0 +1,2 @@
+# Module com.glidder.coopchess.GwtDefinition
+# RPC service class, partial path of RPC policy file
