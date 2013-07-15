@@ -1,4 +1,4 @@
-# Coopchess
+# CoopChess
 *Copyright (C) 2013 Luis Quintana*
 
 > THIS PROGRAM IS DISTRIBUTED WITHOUT ANY WARRANTY<br/>
@@ -6,11 +6,11 @@
 
 ## Introduction
 
-**Coopchess** is an open source 4-handed cooperative chess variant,
+**CoopChess** is an open source 4-handed cooperative chess variant,
  played with four people divided in two teams.
 
 ## License
- **Coopchess**
+ **CoopChess**
  Copyright (C) 2013  [Luis Quintana](http://twitter.com/Glidder_/)
  
 >    This program is free software: you can redistribute it and/or modify
@@ -34,7 +34,8 @@ You can ask for help in:
 
 ## Credits
 
-Int he development of Coopchess have been used the following projects created
+In the development of CoopChess have been used the following projects created
 by third-parties:
 
+* [libGDX](http://libgdx.badlogicgames.com/)
 
